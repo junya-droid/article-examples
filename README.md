@@ -25,16 +25,18 @@ HTML・CSSなどのコードは必要な場合だけ任意のコード欄に貼�
 
 下表はIssue検索への入口です。検索結果は投稿が追加されると変わりますが、**このREADMEに投稿内容や件数が自動追記されるわけではありません。**
 
+
 | 記事の型 | 検索入口 |
 |---|---|
-| （参考書）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Atitle%2Cbody%20%22%5B%E6%94%B9%E5%96%84%E4%BE%8B%5D%22%20%22%EF%BC%88%E5%8F%82%E8%80%83%E6%9B%B8%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| （大学名）の二次試験解説 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Atitle%2Cbody%20%22%5B%E6%94%B9%E5%96%84%E4%BE%8B%5D%22%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E4%BA%8C%E6%AC%A1%E8%A9%A6%E9%A8%93%E8%A7%A3%E8%AA%AC%22) |
-| （大学名）の入試概要 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Atitle%2Cbody%20%22%5B%E6%94%B9%E5%96%84%E4%BE%8B%5D%22%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E5%85%A5%E8%A9%A6%E6%A6%82%E8%A6%81%22) |
-| （大学名）の（科目名）のルート | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Atitle%2Cbody%20%22%5B%E6%94%B9%E5%96%84%E4%BE%8B%5D%22%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
-| （学習段階名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Atitle%2Cbody%20%22%5B%E6%94%B9%E5%96%84%E4%BE%8B%5D%22%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| （科目名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Atitle%2Cbody%20%22%5B%E6%94%B9%E5%96%84%E4%BE%8B%5D%22%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| （参考書）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%8F%82%E8%80%83%E6%9B%B8%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| （大学名）の二次試験解説 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E4%BA%8C%E6%AC%A1%E8%A9%A6%E9%A8%93%E8%A7%A3%E8%AA%AC%22) |
+| （大学名）の入試概要 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E5%85%A5%E8%A9%A6%E6%A6%82%E8%A6%81%22) |
+| （大学名）の（科目名）のルート | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
+| （学習段階名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| （科目名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
 
-検索は`is:issue in:title,body "[改善例]" "記事の型"`を基本にします。ラベルによる厳密な分類ではないので、検索結果の本文を確認します。タイトルから目印が消えたり、型が書き換わったりすると見つからない場合があります。[GitHubの検索仕様](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
+
+検索は`is:issue in:title,body  "記事の型"`を基本にします。ラベルによる厳密な分類ではないので、検索結果の本文を確認します。タイトルから目印が消えたり、型が書き換わったりすると見つからない場合があります。[GitHubの検索仕様](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
 
 この6種類は記事の型です。「執筆待ち・公開済み」などの進捗や、校舎ブログ等の媒体・用途と一列に混ぜません。
 
