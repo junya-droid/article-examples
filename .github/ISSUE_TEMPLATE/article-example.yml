@@ -1,0 +1,54 @@
+name: "記事の改善例"
+description: "記事で使った工夫を参考例として残します。共通部品の採用申請ではありません。"
+title: "[改善例] "
+# labels・assigneesは指定しない。種類の選択からラベルは自動生成されない。
+body:
+  - type: markdown
+    attributes:
+      value: |
+        自分が次も参考にしたい工夫を、1件ずつ任意で共有するフォームです。
+        [執筆正本WRITING.md](https://github.com/gengakusha/web-writing/blob/main/WRITING.md)を優先してください。
+        タイトルの「[改善例]」は、後から探すための目印として残してください。
+
+  - type: dropdown
+    id: article-type
+    attributes:
+      label: "記事の型"
+      multiple: false
+      options:
+        - "（参考書）の勉強法"
+        - "（大学名）の二次試験解説"
+        - "（大学名）の入試概要"
+        - "（大学名）の（科目名）のルート"
+        - "（学習段階名）の勉強法"
+        - "（科目名）の勉強法"
+    validations:
+      required: true
+
+  - type: textarea
+    id: example-source
+    attributes:
+      label: "実例・出典（URLまたは画像）"
+      description: "記事や該当箇所のURL、または画像を添えます。"
+      placeholder: "実例のURL、またはここに画像を添付。必要なら該当箇所を一言。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: improvement
+    attributes:
+      label: "工夫と一言の狙い"
+      description: "どこを変え、何が気に入っているかを1〜2文。予想した効果と確認できた効果は分けます。"
+      placeholder: "例：章名をカード状に並べ、全体を見渡せるようにした。視認性がいいデザインだと感じた。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: example-code
+    attributes:
+      label: "使用したコード（任意）"
+      description: "HTML・CSSなど、工夫を再利用するためのコードを貼り付けてください。記事固有のURLやIDは再利用時に確認してください。"
+      placeholder: "ここにコードを貼り付け"
+      render: html
+    validations:
+      required: false
