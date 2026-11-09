@@ -8,19 +8,7 @@
 
 [投稿フォームの選択画面](https://github.com/junya-droid/article-examples/issues/new/choose)を開き、「記事の改善例」を選んでください。フォームが開いたら、タイトル、記事の型、実例・出典、工夫の内容と狙いを入力してください。**タイトルは工夫の内容が伝わる言葉で自由に付けられます。`[改善例]`などの決まった接頭辞は不要です。**
 
-選択画面を経由せずに開きたい場合は、[「記事の改善例」フォームへの直接リンク](https://github.com/junya-droid/article-examples/issues/new?template=article-example.yml)も利用できます。うまく開かない場合は選択画面から進んでください。フォームの定義は[article-example.yml](https://github.com/junya-droid/article-examples/blob/main/.github/ISSUE_TEMPLATE/article-example.yml)で確認できます（このYAMLファイル自体は投稿画面ではありません）。
-
 原則として**1つの工夫につき1投稿**とし、投稿は任意です。記事の種類を問わず使える工夫は、記事の型で「汎用」を選択してください。
-
-HTML・CSSなどのコードは、必要な場合のみコード欄に貼り付けてください。見た目に関する工夫の場合は、実際の表示画像を添えると伝わりやすくなります。なお、**コードを貼り付けただけでは、GitHub Issues上でWebページとして実行・表示されません。**
-
-投稿前に、URL・画像・コードに個人情報、機密情報、認証情報などが含まれていないことを確認してください。
-
-### 投稿の検索について
-
-投稿の分類には、フォームで選択した「記事の型」を使います。この選択結果はIssue本文に記録されるため、**タイトルの書き方に関係なく、記事の型から検索できます。**
-
-フォームで記事の型を選択しても、GitHubのラベルは自動では付与されません。この試作ではラベルによる分類やタイトルの接頭辞に依存せず、**Issue本文の「記事の型」を検索**します。詳しくは[GitHub公式ドキュメント（Issueフォームの仕様）](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)を参照してください。
 
 ## 記事の型・汎用から改善例を探す
 
