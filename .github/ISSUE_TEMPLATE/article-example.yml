@@ -6,7 +6,6 @@ body:
     attributes:
       value: |
         自分が次も参考にしたい工夫を、1件ずつ任意で共有するフォームです。
-        [執筆正本WRITING.md](https://github.com/gengakusha/web-writing/blob/main/WRITING.md)を優先してください。
         タイトルは工夫の内容が伝わる言葉で自由に付けてください。特定の接頭辞は不要です。
   - type: dropdown
     id: article-type
