@@ -2,8 +2,6 @@
 
 現論会の記事制作で生まれたデザイン・構成・コードなどの工夫を、GitHub Issuesで共有・検索するためのリポジトリです。
 
-> **個人で試作中**：このリポジトリは個人で検証しているもので、現論会での正式採用やチームの承認を意味するものではありません。投稿された内容は、あくまで参考例として扱ってください。
-
 **[改善例を投稿する](https://github.com/junya-droid/article-examples/issues/new?template=article-example.yml)** ｜ **[投稿一覧を見る](https://github.com/junya-droid/article-examples/issues)**
 
 ## 改善例を投稿する
