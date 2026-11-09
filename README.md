@@ -24,10 +24,6 @@
 | （科目名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
 | 汎用（記事の型を問わず活用できる工夫） | [汎用の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%E6%B1%8E%E7%94%A8%22) |
 
-検索する際は、`is:issue in:body "（大学名）の二次試験解説"`のように、Issue本文に記録された記事の型を指定します。**タイトルに`[改善例]`を付ける必要はありません。** 本文の自由記述に同じ言葉が含まれる投稿も検索結果に入ることがあるため、選択された記事の型をIssue本文で確認してください。本文の「記事の型」を書き換えると、検索結果に影響することがあります。詳しくは[GitHub公式ドキュメント（Issueの検索）](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)を参照してください。
-
-上記の6種類は**記事の型**による分類で、「汎用」は特定の型に限らず使える工夫を登録するための選択肢です。「執筆待ち」「公開済み」といった制作状況や、校舎ブログなどの掲載媒体・用途とは区別しています。
-
 ## 改善例を活用するとき
 
 人が参考にする場合も、AIが参照する場合も、次の手順を基本とします。
