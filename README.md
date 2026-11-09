@@ -6,7 +6,7 @@
 
 ## 改善例を投稿する
 
-[投稿フォームの選択画面](https://github.com/junya-droid/article-examples/issues/new/choose)を開き、**「記事の改善例」**を選んでください。フォームが開いたら、タイトル、記事の型、実例・出典、工夫の内容と狙いを入力してください。**タイトルは工夫の内容が伝わる言葉で自由に付けられます。`[改善例]`などの決まった接頭辞は不要です。**
+[投稿フォームの選択画面](https://github.com/junya-droid/article-examples/issues/new/choose)を開き、「記事の改善例」を選んでください。フォームが開いたら、タイトル、記事の型、実例・出典、工夫の内容と狙いを入力してください。**タイトルは工夫の内容が伝わる言葉で自由に付けられます。`[改善例]`などの決まった接頭辞は不要です。**
 
 選択画面を経由せずに開きたい場合は、[「記事の改善例」フォームへの直接リンク](https://github.com/junya-droid/article-examples/issues/new?template=article-example.yml)も利用できます。うまく開かない場合は選択画面から進んでください。フォームの定義は[article-example.yml](https://github.com/junya-droid/article-examples/blob/main/.github/ISSUE_TEMPLATE/article-example.yml)で確認できます（このYAMLファイル自体は投稿画面ではありません）。
 
