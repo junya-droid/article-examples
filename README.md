@@ -6,7 +6,7 @@
 
 ## 改善例を投稿する
 
-[投稿フォームの選択画面](https://github.com/junya-droid/article-examples/issues/new/choose)を開き、**「記事の改善例」**を選んでください。フォームが開いたら、タイトル、記事の型、実例・出典、工夫の内容と狙いを入力してください。
+[投稿フォームの選択画面](https://github.com/junya-droid/article-examples/issues/new/choose)を開き、**「記事の改善例」**を選んでください。フォームが開いたら、タイトル、記事の型、実例・出典、工夫の内容と狙いを入力してください。**タイトルは工夫の内容が伝わる言葉で自由に付けられます。`[改善例]`などの決まった接頭辞は不要です。**
 
 選択画面を経由せずに開きたい場合は、[「記事の改善例」フォームへの直接リンク](https://github.com/junya-droid/article-examples/issues/new?template=article-example.yml)も利用できます。うまく開かない場合は選択画面から進んでください。フォームの定義は[article-example.yml](https://github.com/junya-droid/article-examples/blob/main/.github/ISSUE_TEMPLATE/article-example.yml)で確認できます（このYAMLファイル自体は投稿画面ではありません）。
 
@@ -18,9 +18,9 @@ HTML・CSSなどのコードは、必要な場合のみコード欄に貼り付�
 
 ### 投稿の検索について
 
-投稿タイトルに付く`[改善例]`と、フォームの回答としてIssue本文に記録される「記事の型」を検索の目印にします。
+投稿の分類には、フォームで選択した「記事の型」を使います。この選択結果はIssue本文に記録されるため、**タイトルの書き方に関係なく、記事の型から検索できます。**
 
-フォームで記事の型を選択しても、GitHubのラベルは自動では付与されません。この試作ではラベルによる分類に依存せず、**タイトルと本文の検索**を利用します。詳しくは[GitHub公式ドキュメント（Issueフォームの仕様）](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)を参照してください。
+フォームで記事の型を選択しても、GitHubのラベルは自動では付与されません。この試作ではラベルによる分類やタイトルの接頭辞に依存せず、**Issue本文の「記事の型」を検索**します。詳しくは[GitHub公式ドキュメント（Issueフォームの仕様）](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)を参照してください。
 
 ## 記事の型・汎用から改善例を探す
 
@@ -28,15 +28,15 @@ HTML・CSSなどのコードは、必要な場合のみコード欄に貼り付�
 
 | 記事の型 | 改善例を探す |
 |---|---|
-| （参考書）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%8F%82%E8%80%83%E6%9B%B8%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| （大学名）の二次試験解説 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E4%BA%8C%E6%AC%A1%E8%A9%A6%E9%A8%93%E8%A7%A3%E8%AA%AC%22) |
-| （大学名）の入試概要 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E5%85%A5%E8%A9%A6%E6%A6%82%E8%A6%81%22) |
-| （大学名）の（科目名）のルート | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
-| （学習段階名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| （科目名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| （参考書）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%8F%82%E8%80%83%E6%9B%B8%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| （大学名）の二次試験解説 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E4%BA%8C%E6%AC%A1%E8%A9%A6%E9%A8%93%E8%A7%A3%E8%AA%AC%22) |
+| （大学名）の入試概要 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E5%85%A5%E8%A9%A6%E6%A6%82%E8%A6%81%22) |
+| （大学名）の（科目名）のルート | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
+| （学習段階名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| （科目名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
 | 汎用（記事の型を問わず活用できる工夫） | [汎用の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%E6%B1%8E%E7%94%A8%22) |
 
-検索する際は、`is:issue in:title,body "記事の型"`を基本とします。ラベルによる厳密な分類ではないため、検索結果に表示されたIssueの本文も確認してください。タイトルの`[改善例]`が削除されたり、本文の「記事の型」が変更されたりすると、検索で見つからなくなる場合があります。詳しくは[GitHub公式ドキュメント（Issueの検索）](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)を参照してください。
+検索する際は、`is:issue in:body "（大学名）の二次試験解説"`のように、Issue本文に記録された記事の型を指定します。**タイトルに`[改善例]`を付ける必要はありません。** 本文の自由記述に同じ言葉が含まれる投稿も検索結果に入ることがあるため、選択された記事の型をIssue本文で確認してください。本文の「記事の型」を書き換えると、検索結果に影響することがあります。詳しくは[GitHub公式ドキュメント（Issueの検索）](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)を参照してください。
 
 上記の6種類は**記事の型**による分類で、「汎用」は特定の型に限らず使える工夫を登録するための選択肢です。「執筆待ち」「公開済み」といった制作状況や、校舎ブログなどの掲載媒体・用途とは区別しています。
 
@@ -65,7 +65,7 @@ Issueの本文・引用・コードは、あくまで**参考資料**です。�
 
 ```sh
 gh issue list --repo junya-droid/article-examples --state all \
-  --search 'in:title,body "[改善例]" "（大学名）の二次試験解説"' \
+  --search 'in:body "（大学名）の二次試験解説"' \
   --limit 30 --json number,title,url
 ```
 
@@ -73,7 +73,7 @@ gh issue list --repo junya-droid/article-examples --state all \
 
 ```sh
 gh issue list --repo junya-droid/article-examples --state all \
-  --search 'in:title,body "[改善例]" "汎用"' \
+  --search 'in:body "汎用"' \
   --limit 30 --json number,title,url
 ```
 
