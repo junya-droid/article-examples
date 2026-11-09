@@ -9,11 +9,11 @@ body:
         自分が次も参考にしたい工夫を、1件ずつ任意で共有するフォームです。
         [執筆正本WRITING.md](https://github.com/gengakusha/web-writing/blob/main/WRITING.md)を優先してください。
         タイトルの「[改善例]」は、後から探すための目印として残してください。
-
   - type: dropdown
     id: article-type
     attributes:
       label: "記事の型"
+      description: "複数の記事の型で使える工夫は「汎用」を選んでください。"
       multiple: false
       options:
         - "（参考書）の勉強法"
@@ -22,9 +22,9 @@ body:
         - "（大学名）の（科目名）のルート"
         - "（学習段階名）の勉強法"
         - "（科目名）の勉強法"
+        - "汎用"
     validations:
       required: true
-
   - type: textarea
     id: example-source
     attributes:
@@ -42,7 +42,6 @@ body:
       placeholder: "例：章名をカード状に並べ、全体を見渡せるようにした。視認性がいいデザインだと感じた。"
     validations:
       required: true
-
   - type: textarea
     id: example-code
     attributes:
