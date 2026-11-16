@@ -22,7 +22,7 @@
 | [（大学名）の（科目名）のルート](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
 | [（学習段階名）の勉強法](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
 | [（科目名）の勉強法](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| [汎用](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%E6%B1%8E%E7%94%A8%22)（記事の型を問わず活用できる工夫） |
+| [汎用](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%E6%B1%8E%E7%94%A8%22) |
 
 
 ## 正式なルール・テンプレートへの反映
