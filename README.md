@@ -10,28 +10,20 @@
 
 原則として**1つの工夫につき1投稿**とし、投稿は任意です。記事の種類を問わず使える工夫は、記事の型で「汎用」を選択してください。
 
-## 記事の型・汎用から改善例を探す
+## 記事の型から探す
 
-以下のリンクから、記事の型ごと、または「汎用」の投稿を検索できます。新しい投稿は検索結果に反映されますが、**このREADMEに投稿内容や件数が自動で追加されるわけではありません。**
+以下の記事の型をクリックすると、該当する投稿を検索できます。複数の記事で活用できる工夫は「汎用」から探せます。
 
-| 記事の型 | 改善例を探す |
-|---|---|
-| （参考書）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%8F%82%E8%80%83%E6%9B%B8%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| （大学名）の二次試験解説 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E4%BA%8C%E6%AC%A1%E8%A9%A6%E9%A8%93%E8%A7%A3%E8%AA%AC%22) |
-| （大学名）の入試概要 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E5%85%A5%E8%A9%A6%E6%A6%82%E8%A6%81%22) |
-| （大学名）の（科目名）のルート | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
-| （学習段階名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| （科目名）の勉強法 | [この型の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
-| 汎用（記事の型を問わず活用できる工夫） | [汎用の改善例](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%E6%B1%8E%E7%94%A8%22) |
+| 記事の型 |
+|---|
+| [（参考書）の勉強法](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%8F%82%E8%80%83%E6%9B%B8%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| [（大学名）の二次試験解説](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E4%BA%8C%E6%AC%A1%E8%A9%A6%E9%A8%93%E8%A7%A3%E8%AA%AC%22) |
+| [（大学名）の入試概要](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%E5%85%A5%E8%A9%A6%E6%A6%82%E8%A6%81%22) |
+| [（大学名）の（科目名）のルート](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%A4%A7%E5%AD%A6%E5%90%8D%EF%BC%89%E3%81%AE%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%88%22) |
+| [（学習段階名）の勉強法](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E5%AD%A6%E7%BF%92%E6%AE%B5%E9%9A%8E%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| [（科目名）の勉強法](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%EF%BC%88%E7%A7%91%E7%9B%AE%E5%90%8D%EF%BC%89%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95%22) |
+| [汎用](https://github.com/junya-droid/article-examples/issues?q=is%3Aissue%20in%3Abody%20%22%E6%B1%8E%E7%94%A8%22)（記事の型を問わず活用できる工夫） |
 
-## 改善例を活用するとき
-
-人が参考にする場合も、AIが参照する場合も、次の手順を基本とします。
-
-1. 今回の記事の型に合う投稿に加え、「汎用」の投稿も確認します。
-2. 関連する投稿だけを読み、工夫の内容・狙い・実例・画像・コード（あれば）を確認します。無関係な投稿をすべて読んだり、複数の事例を無条件に組み合わせたりする必要はありません。
-3. 取り入れたい点と、効果が未確認の点・承認が必要な点を整理します。今回の記事に合わなければ、採用する必要はありません。
-4. 実際の記事制作では、[執筆ルールの正本（WRITING.md）](https://github.com/gengakusha/web-writing/blob/main/WRITING.md)、指定された準拠記事、WordPressで許可されている変更範囲を優先します。
 
 ## 正式なルール・テンプレートへの反映
 
